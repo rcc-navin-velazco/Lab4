@@ -25,7 +25,7 @@ void exercise_1()
 // Decide whether the determinant is negative or positive
 // You compute the determinant using the following
 // formula:
-//   det = sqrt(b^2 - 4*a*c)
+//   det = b*b - 4*a*c
 // if det is less than 0 output "The determinant is negative"
 // else output The "determinant is positive"
 
