@@ -13,13 +13,14 @@
 
 - Right now you should be reading this project in my GitHub page.
 
-- What you will do, is download the this project as a zip.
+- What you will do, is download this project as a zip.
 
 - Click on the green button and the at bottom there should be download zip. Click it!
 
 ![alt text](images/image.png)
 
 - Once you have done that, go to downloads right click and extract the folder
+- You should not see an uncompressed folder called lab4-master. This folder is folder where you will be making changes.
 
 ![alt text](images/image2.png)
 
@@ -50,10 +51,10 @@
 cd /
 ```
 
-- There was a bit confusion with [path_to_lab3_folder]
+- There was a bit confusion with [path_to_lab4_folder]
 - You need to replace that with the path to your folder for example in my computer I would replace it as
 ```bash
-/Users/navin/source/repos/Lab2-master/Lab2-master
+/Users/navin/source/repos/Lab4-master/Lab4-master
 ```
 
 - The quickest way to do it is opening up file explorer go to where the project folder. You should see the following. (similar process for macs)
@@ -112,10 +113,10 @@ make
 ./lab3
 ```
 ---
-## Starting Lab 3
+## Starting Lab 4
 
 - Go the to src folder and open exercises.cpp file.
-- You should see 7 TODOs
+- You should see 3 TODOs
 
 ![alt text](images/image5.png)
 
@@ -125,5 +126,5 @@ Go back to the section that I mentioned above that needs to be repeated everytim
 
 ## Turning in your Assignment
 
-- You will compress your folder Lab2 to a zip file
+- You will compress your folder Lab4 to a zip file
 - You will then submit the zip file to canvas.

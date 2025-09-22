@@ -3,11 +3,9 @@
 
 
 #include <iostream>
-#include "exercises.hpp"
-
-
-#include <iostream>
 #include <string>
+
+#include "exercises.hpp"
 
 void separator()
 {
