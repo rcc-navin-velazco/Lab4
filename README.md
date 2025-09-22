@@ -99,7 +99,7 @@ cmake ..
 ```bash
 msbuild ALL_BUILD.vcxproj
 cd Debug
-lab3
+lab4
 cd ..
 ```
 ---
@@ -110,7 +110,7 @@ Make sure you are in the build directory in the terminal
 Everytime you need to run your code do the following.
 ```bash 
 make
-./lab3
+./lab4
 ```
 ---
 ## Starting Lab 4
