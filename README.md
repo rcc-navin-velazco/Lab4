@@ -3,7 +3,7 @@
 
 
 
-# C++ Programming Lab 4: Practicing Arithmetic Operations
+# C++ Programming Lab 4: Practicing with Relational Operators and if/else construct
 
 
 ---
