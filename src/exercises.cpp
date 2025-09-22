@@ -8,7 +8,13 @@
 // Given a year from the user
 // decide whether it is leap year
 // If it is, then output  "Yes the year [INPUT] is a leap year"
-// else output "No the year [INPUT] is leap year"
+// else output "No the year [INPUT] is not a leap year"
+/*
+Note: A year is a leap year if "any one of " the following conditions are satisfied: 
+
+1. The year is multiple of 400.
+1. The year is a multiple of 4 and not a multiple of 100.
+*/
 void exercise_1()
 {
 
